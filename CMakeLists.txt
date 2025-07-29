@@ -1,1 +1,0 @@
-set(CMAKE_CXX_FLAGS_DEBUG "-ggdb")
